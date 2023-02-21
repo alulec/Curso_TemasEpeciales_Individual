@@ -5,5 +5,6 @@ public class Main {
 
         miAuto.Encender();
         miAuto.Avanzar(15);
+        miAuto.Encender();
     }
 }
